@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cdio-imark/static/css/main.09441b22.css",
+    "main.js": "/cdio-imark/static/js/main.99b80f08.js",
+    "index.html": "/cdio-imark/index.html",
+    "main.09441b22.css.map": "/cdio-imark/static/css/main.09441b22.css.map",
+    "main.99b80f08.js.map": "/cdio-imark/static/js/main.99b80f08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09441b22.css",
+    "static/js/main.99b80f08.js"
+  ]
+}
